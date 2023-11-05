@@ -1,0 +1,10 @@
+.property-details {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.link {
+    color: #000;
+}
+
